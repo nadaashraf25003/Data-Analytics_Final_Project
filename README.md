@@ -1,6 +1,6 @@
 # Let's create a README.md file with the content we generated for Nada's project
 
-readme_content = """# 📊 End-to-End Retail Data Analytics Project  
+"""# 📊 End-to-End Retail Data Analytics Project  
 
 ## 📌 Overview  
 This project is a **team-based data analytics solution** designed to analyze a retail dataset across multiple business areas:  
