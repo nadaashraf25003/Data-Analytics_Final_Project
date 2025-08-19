@@ -62,8 +62,10 @@ We implemented a complete pipeline using **SSIS for ETL**, **SQL Server for data
 ## 📷 Sample Dashboards  
 
 Example:  
-![Online Sales Dashboard](screenshots/online_sales.png)  
-![Inventory Dashboard](screenshots/inventory.png)  
+![Machine Performance Analysis Dashboard](images/Machine_Performance_Analysis.png)  
+![Online Sales Analysis Dashboard](images/Online_Sales_Analysis.png)  
+![Inventory Status Analysis Dashboard](images/Inventory_Status_Analysis.png)  
+![Promotion Effectiveness Analysis Dashboard](images/Promotion_Effectiveness_Analysis.png)  
 
 ---
 
@@ -77,4 +79,4 @@ Example:
 
 This project was completed as part of the **Advanced Data Analysis Workshop (50 hours)** by **Data Pill**, where I achieved a score of **84%**.  
 
-![Certificate](certificate/nada-ashraf-certificate.png)  
+![Certificate](images/nada_Ashraf.png)  
