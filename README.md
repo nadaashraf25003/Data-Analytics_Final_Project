@@ -68,7 +68,12 @@ Example:
 ![Promotion Effectiveness Analysis Dashboard](images/Promotion_Effectiveness_Analysis.jpg)  
 
 ---
+## 🗂️ Data Model Diagram  
 
+Below is the schema used in this project, representing the relationships between Fact and Dimension tables.  
+
+![Data Model](images/Data_Analysis_Diagram.png)  
+---
 ## 📢 Project Link  
 
 🔗 [View Project on Maven](#) *(https://mavenshowcase.com/project/42889)*  
