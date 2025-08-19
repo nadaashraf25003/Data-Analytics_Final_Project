@@ -62,10 +62,10 @@ We implemented a complete pipeline using **SSIS for ETL**, **SQL Server for data
 ## 📷 Sample Dashboards  
 
 Example:  
-![Machine Performance Analysis Dashboard](images/Machine_Performance_Analysis.png)  
-![Online Sales Analysis Dashboard](images/Online_Sales_Analysis.png)  
-![Inventory Status Analysis Dashboard](images/Inventory_Status_Analysis.png)  
-![Promotion Effectiveness Analysis Dashboard](images/Promotion_Effectiveness_Analysis.png)  
+![Machine Performance Analysis Dashboard](images/Machine_Performance_Analysis.jpg)  
+![Online Sales Analysis Dashboard](images/Online_Sales_Analysis.jpg)  
+![Inventory Status Analysis Dashboard](images/Inventory_Status_Analysis.jpg)  
+![Promotion Effectiveness Analysis Dashboard](images/Promotion_Effectiveness_Analysis.jpg)  
 
 ---
 
