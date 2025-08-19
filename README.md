@@ -1,5 +1,3 @@
-# Let's create a README.md file with the content we generated for Nada's project
-
 # 📊 End-to-End Retail Data Analytics Project  
 
 ## 📌 Overview  
